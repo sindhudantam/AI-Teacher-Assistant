@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+matplotlib
+python-dotenv
+transformers
+
+firebase-admin
